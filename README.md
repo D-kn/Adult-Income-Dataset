@@ -1,2 +1,2 @@
 # AdultDataset-Income-prediction
-##How to contribut ????
+## How to contribut ????
